@@ -48,7 +48,7 @@ button.style.marginTop = "2%"; // Add spacing below the title
 var message = document.createElement("p");
 message.style.color = "#337ab7"; // Match the button color
 message.style.display = "none";
-message.style.fontSize = "1.4vw"; // Adjust the font size using viewport units
+message.style.fontSize = "1.7vw"; // Adjust the font size using viewport units
 message.style.fontWeight = "bold"; // Make the text bold
 message.style.textAlign = "center";
 
